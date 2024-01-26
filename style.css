@@ -1,0 +1,29 @@
+.sides{
+    justify-content: center;
+}
+.ul-1{
+    justify-content: center;
+    display: flex;
+    gap: 30px;
+    background-color: aqua;
+    height:60px;
+}
+.ol-1{
+    display: flex;
+    justify-self: center;
+}
+.h1,h2{
+    justify-content: center;
+    display: flex;
+}
+.section-1{
+    background-color: rgb(219, 237, 18);
+}
+.img{
+    width: 400px;
+    height: 400px;
+}
+.img-1{
+    width:400px;
+    height: 400px;
+}
